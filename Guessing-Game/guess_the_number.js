@@ -19,3 +19,4 @@ while (true) {
         guess = prompt("Guess the number: ");
     }
 }
+
